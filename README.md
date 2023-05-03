@@ -1,5 +1,5 @@
 Hi 👋, I'm Sachin
-🌱 I’m currently learning react.js
+-🌱 I’m currently learning react.js
 
 <!--
 **sachin21082004/sachin21082004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
