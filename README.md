@@ -1,7 +1,7 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://sachin21082004.io)
 <h1 align="center">Hi 👋, I'm Sachin Kumar</h1>
 <h3 align="center">Frontend Developer ||MERN Developer</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/search?q=animated+coder+gif&rlz=1C1CHBF_enIN1030IN1030&sxsrf=APwXEdcZEZwoAR2ir7qSDppu4WCQ5AGMag:1683214457798&source=lnms&tbm=isch&sa=X&ved=2ahUKEwj01Nm-_tv-AhUBE4gKHfGwBQ4Q_AUoAXoECAEQAw&biw=1536&bih=754&dpr=1.25#imgrc=35X6L1D39_KDvM"/>
+<img align="right" alt="Coding" width="400" src="https://www.pinterest.com/pin/lottieanimationchainstarters--59813501292017265/"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sachin21082004&label=Profile%20views&color=0e75b6&style=flat" alt="sachin21082004" /> </p>
 
