@@ -1,4 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sachin Kumar</h1>
+<img src="![hello](https://user-images.githubusercontent.com/117819283/236107978-c0e1a154-987e-4134-95de-9214cc8ec1cd.gif)" />
+
 <h3 align="center">Frontend Developer ||MERN Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sachin21082004&label=Profile%20views&color=0e75b6&style=flat" alt="sachin21082004" /> </p>
