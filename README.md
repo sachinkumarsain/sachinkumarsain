@@ -1,4 +1,4 @@
-![logo](https://github.com/sachin21082004/sachin21082004/blob/main/download%20(1).png?raw=true)
+![logo](https://github.com/sachin21082004/sachin21082004/blob/main/html-tutorial-beginners-header.jpg?raw=true)
 <h1 align="center">Hi 👋, I'm Sachin Kumar</h1>
 <h3 align="center">Frontend Developer ||MERN Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif"/>
