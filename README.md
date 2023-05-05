@@ -1,4 +1,4 @@
-![logo](https://github.com/SachinKumarSain/sachin21082004/blob/main/Gainsboro%20Modern%20Marketing%20LinkedIn%20Banner.png?raw=true)
+![logo](https://github.com/SachinKumarSain/SachinKumarSain/blob/main/Gainsboro%20Modern%20Marketing%20LinkedIn%20Banner.png?raw=true)
 <h1 align="center">Hi 👋, I'm Sachin Kumar</h1>
 <h3 align="center">Frontend Developer ||MERN Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif"/>
