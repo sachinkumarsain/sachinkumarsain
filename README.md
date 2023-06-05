@@ -1,4 +1,4 @@
-![logo]("C:\Users\Admin\Pictures\Gray And Black  Simple Personal LinkedIn Banner.png")
+![logo](https://github.com/sachinkumarsain/sachinkumarsain/blob/ed40ef941abde7d2f456575db019f595457d73c7/Gray%20And%20Black%20%20Simple%20Personal%20LinkedIn%20Banner%20-%20Copy.png)
 <h1 align="center">Hi 👋, I'm Sachin Kumar</h1>
 <h3 align="center">Frontend Developer ||MERN Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif"/>
