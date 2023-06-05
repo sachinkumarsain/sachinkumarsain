@@ -1,4 +1,4 @@
-![logo](https://github.com/sachinkumarsain/sachinkumarsain/blob/ed40ef941abde7d2f456575db019f595457d73c7/Gray%20And%20Black%20%20Simple%20Personal%20LinkedIn%20Banner%20-%20Copy.png)
+![logo](https://github.com/sachinkumarsain/sachinkumarsain/blob/029d0c78978522f5f1353fa3a5c5db395ad14a9a/Purple%20White%20Marketing%20Manager%20Modern%20Profile%20LinkedIn%20Article%20Cover%20Image%20(2).png)
 <h1 align="center">Hi 👋, I'm Sachin Kumar</h1>
 <h3 align="center">Frontend Developer ||MERN Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif"/>
