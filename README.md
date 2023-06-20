@@ -24,4 +24,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sachinkumarsain&show_icons=true&locale=en" alt="sachinkumarsain" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sachinkumarsain&" alt="sachinkumarsain" /></p>
-![snake gif](https://github.com/sachinkumarsain/sachinkumarsain/blob/4ce3f9b4d3088c4b4d42855d9ed4323a4e7d2e87/github-contribution-grid-snake.gif)
+![snake gif](github-contribution-grid-snake.gif)
